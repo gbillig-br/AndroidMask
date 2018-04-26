@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidMask</string>
+    <string name="cpf">CPF</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="phone">Phone</string>
+    <string name="carplate">Placa</string>
+</resources>
