@@ -16,6 +16,10 @@ public class Mask extends Formatter implements TextWatcher {
         this.Field = Field;
     }
 
+    public void ChangeMask(String Mask) {
+        this.mask = Mask;
+    }
+
     @Override
     public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
     }

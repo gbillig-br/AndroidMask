@@ -10,7 +10,7 @@ public class Formatter {
      * String pattern that represents the mask used by {@link #Format(String)} method
      * All mask characters should have been registered with RegisterPattern
      */
-    private String mask;
+    protected String mask;
 
     /**
      * Used to register all available patterns
